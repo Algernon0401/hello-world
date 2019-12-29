@@ -1,2 +1,4 @@
 # hello-world
-A place to store ideas, resources, or even share and discuss things with others.
+
+-This place is creat to store ideas, resources, or share and discuss things with others.
+-This repository was built under the Hello World guide.
